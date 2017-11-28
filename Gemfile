@@ -60,3 +60,5 @@ gem 'bootstrap', '~> 4.0.0.alpha6'
 gem 'jquery-rails'
 
 gem 'jones_view_tool', git: 'https://github.com/jonesbr/jones_view_tool'
+
+gem 'petergate', '~> 1.8'
