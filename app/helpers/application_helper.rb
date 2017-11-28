@@ -16,4 +16,8 @@ module ApplicationHelper
     end
   end
 
+  def copyright_generator
+    JonesViewTool::Renderer.copyright 'Brody Jones', 'All rights reserved'
+  end
+
 end
