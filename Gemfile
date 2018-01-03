@@ -62,3 +62,7 @@ gem 'jquery-rails'
 gem 'jones_view_tool', git: 'https://github.com/jonesbr/jones_view_tool'
 
 gem 'petergate', '~> 1.8'
+
+gem 'font-awesome-rails', '~> 4.6', '>= 4.6.3.1'
+
+gem 'kaminari', '~> 1.1', '>= 1.1.1'
